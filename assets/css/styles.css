@@ -1,0 +1,41 @@
+body {
+    font-family: 'Comfortaa', cursive;
+    background: #14091a;
+    }
+  
+  .container {
+    padding-top: 30px;
+  } 
+    
+  h1 {
+    color: #fff;
+    font-size: 70px;
+    text-align: center;
+    font-weight: 700;
+  }
+    
+  img {
+    max-width: 40%;
+    padding: 60px;
+    display: block;
+    margin: 20px;
+    background-color: gray;
+  }
+  .imagen {
+    margin-left: 30%;
+  }
+  
+  .btn {
+    font-size: 20px;
+    font-weight: 300;
+  }
+  button {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+  }
+  .mx-5 {
+    margin-left: 35%;
+  }
+    
